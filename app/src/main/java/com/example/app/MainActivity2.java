@@ -12,6 +12,7 @@ public class MainActivity2 extends AppCompatActivity {
         setContentView(R.layout.activity_main2);
 
         Log.d("test","wo yao");
+
         Log.d("test","ba ni");
         Log.d("test","gai de");
         Log.d("test","mian mu quan fei");
